@@ -60,7 +60,7 @@ Dog barks
 
 ✅ Result
 
-Thus, the Java program demonstrating an interface was successfully executed, and the expected output was obtained.
+Thus, the Java program demonstrating an interface was  executed, and the expected output was obtained successfully.
 
 ---
 
